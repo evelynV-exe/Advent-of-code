@@ -47,6 +47,3 @@ The dial is rotated R14 to point at 14.
 Because the dial points at 0 a total of three times during this process, the password in this example is 3.
 Analyze the rotations in your attached document. What's the actual password to open the door?
 The dial is rotated L82 to point at 32.
-Because the dial points at 0 a total of three times during this process, the password in this example is 3.
-
-Analyze the rotations in your attached document. What's the actual password to open the door?
